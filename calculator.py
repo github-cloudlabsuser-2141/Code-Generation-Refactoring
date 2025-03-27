@@ -1,3 +1,5 @@
+#Creaye a basic calculator in Python
+#This calculator can perform addition, subtraction, multiplication, and division.
 def add(a, b):
     return a + b
 
