@@ -1,3 +1,4 @@
+# Fetch weather data from OpenWeatherMap API,
 import requests
 
 def get_weather(city, api_key):
@@ -34,4 +35,4 @@ def main():
         print(f"Humidity: {weather_data['humidity']}%")
 
 if __name__ == "__main__":
-    main()
+    main()c
